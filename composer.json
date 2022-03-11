@@ -1,0 +1,18 @@
+{
+    "name": "bay20/shopware-element",
+    "type": "shopware-plugin",
+    "description": "This is the banner text plugin of shopware 5",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BAY20 SOFTWARE CONSULTANCY SERVICES PVT. LTD."
+        }
+    ],
+    "extra": {
+        "label": {
+            "de-DE": "Banner Text Element",
+            "en-GB": "Banner-Textelement"
+        }
+    }
+}
